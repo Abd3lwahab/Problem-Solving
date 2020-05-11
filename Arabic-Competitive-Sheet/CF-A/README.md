@@ -1,3 +1,4 @@
 # CF-A
 ## Implementation
-- [Vanya and Fence](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit#gid=1160016643&range=B11) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/vanya_and_fence.cpp)  
+- [Vanya and Fence](http://codeforces.com/contest/677/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/vanya_and_fence.cpp)  
+- [Anton and Danik](http://codeforces.com/contest/734/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_danik.py)  
