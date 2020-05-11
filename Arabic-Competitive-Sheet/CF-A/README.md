@@ -5,6 +5,7 @@
 - [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/bear_and_big_brother.cpp)  
 - [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/beautiful_matrix.py) 
 - [Gravity Flip](http://codeforces.com/contest/405/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/gravity_flip.cpp) 
+- [Petya and Strings](http://codeforces.com/contest/405/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/petya_and_strings.cpp) 
 
 ## BruteForce
 - [Team](http://codeforces.com/contest/231/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) 
