@@ -31,3 +31,8 @@
 | Code | Problem | Solution |
 | :------------: | :------------: | :------------: |
 | CF381-D2-A | [Sereja and Dima](http://codeforces.com/contest/381/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/sereja_and_dima.cpp) |
+
+## Math
+| Code | Problem | Solution |
+| :------------: | :------------: | :------------: |
+| CF381-D2-A | [Die Roll](http://codeforces.com/contest/9/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/die_roll.cpp) |
