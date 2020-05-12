@@ -17,6 +17,7 @@
 | CF431-D2-A | [Black Square](http://codeforces.com/contest/431/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/black_square.cpp) |
 | CF731-D2-A | [Night at the Museum](http://codeforces.com/contest/731/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/night_at_the_museum.cpp)|
 | CF228-D2-A | [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/is_your_horseshoe_on_the_other_hoof.py)|
+| CF265-D2-A | [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/colorful_stones.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
