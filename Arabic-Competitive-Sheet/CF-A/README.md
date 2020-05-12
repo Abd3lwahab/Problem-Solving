@@ -17,6 +17,7 @@
 ## BruteForce
 - [Team](http://codeforces.com/contest/231/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) 
 - [Games](http://codeforces.com/contest/268/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/games.cpp) 
+- [Buy a Shovel](http://codeforces.com/contest/732/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/buy_a_shovel.py) 
 
 
 ## Greedy
