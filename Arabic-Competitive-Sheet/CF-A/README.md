@@ -10,6 +10,7 @@
 - [ًWord](http://codeforces.com/contest/59/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/word.py) 
 - [Magnets](http://codeforces.com/contest/344/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/magnets.cpp) 
 - [Stones on the Table](http://codeforces.com/contest/266/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/stones_on_the_table.cpp) 
+- [Police Recruits](http://codeforces.com/contest/427/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/police_recruits.cpp) 
 
 ## BruteForce
 - [Team](http://codeforces.com/contest/231/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) 
