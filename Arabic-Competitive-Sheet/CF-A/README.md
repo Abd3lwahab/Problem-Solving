@@ -8,6 +8,7 @@
 - [Petya and Strings](http://codeforces.com/contest/112/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/petya_and_strings.cpp) 
 - [Boy or Girl](http://codeforces.com/contest/236/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/boy_or_girl.py) 
 - [ًWord](http://codeforces.com/contest/59/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/word.py) 
+- [Magnets](http://codeforces.com/contest/344/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/magnets.cpp) 
 
 ## BruteForce
 - [Team](http://codeforces.com/contest/231/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) 
