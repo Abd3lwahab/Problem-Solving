@@ -12,3 +12,6 @@
 
 ## BruteForce
 - [Team](http://codeforces.com/contest/231/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) 
+
+## Greedy
+- [Sereja and Dima](http://codeforces.com/contest/381/problem/A) - [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/sereja_and_dima.cpp) 
