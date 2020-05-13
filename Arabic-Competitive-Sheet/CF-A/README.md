@@ -35,4 +35,4 @@
 ## Math
 | Code | Problem | Solution |
 | :------------: | :------------: | :------------: |
-| CF381-D2-A | [Die Roll](http://codeforces.com/contest/9/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/die_roll.cpp) |
+| CF9-D2-A | [Die Roll](http://codeforces.com/contest/9/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/die_roll.cpp) |
