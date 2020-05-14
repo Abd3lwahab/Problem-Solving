@@ -19,6 +19,7 @@
 | CF228-D2-A | [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/is_your_horseshoe_on_the_other_hoof.py)|
 | CF265-D2-A | [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/colorful_stones.cpp)|
 | CF294-D2-A | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/shaass_and_oskols.cpp)|
+| CF709-D2-A | [Juicer](http://codeforces.com/contest/709/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/juicer.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
