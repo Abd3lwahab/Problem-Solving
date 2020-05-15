@@ -38,3 +38,4 @@
 | Code | Problem | Solution |
 | :------------: | :------------: | :------------: |
 | CF9-D2-A | [Die Roll](http://codeforces.com/contest/9/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/die_roll.cpp) |
+| CF799-D2-A | [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/carrot_cakes.py) |
