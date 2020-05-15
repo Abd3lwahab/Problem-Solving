@@ -20,6 +20,7 @@
 | CF265-D2-A | [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/colorful_stones.cpp)|
 | CF294-D2-A | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/shaass_and_oskols.cpp)|
 | CF709-D2-A | [Juicer](http://codeforces.com/contest/709/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/juicer.cpp)|
+| CF443-D2-A | [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_letters.py)|
 
 ## BruteForce
 | Code | Problem | Solution |
