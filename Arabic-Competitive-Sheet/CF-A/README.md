@@ -21,6 +21,7 @@
 | CF294-D2-A | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/shaass_and_oskols.cpp)|
 | CF709-D2-A | [Juicer](http://codeforces.com/contest/709/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/juicer.cpp)|
 | CF443-D2-A | [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_letters.py)|
+| CF443-D2-A | [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/way_to_long_words.py)|
 
 ## BruteForce
 | Code | Problem | Solution |
