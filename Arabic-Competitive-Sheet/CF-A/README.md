@@ -36,6 +36,7 @@
 | Code | Problem | Solution |
 | :------------: | :------------: | :------------: |
 | CF381-D2-A | [Sereja and Dima](http://codeforces.com/contest/381/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/sereja_and_dima.cpp) |
+| CF339-D2-A | [Helpful Maths](http://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/helpful_maths.py) |
 
 ## Math
 | Code | Problem | Solution |
