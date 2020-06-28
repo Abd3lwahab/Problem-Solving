@@ -20,7 +20,7 @@ int main() {
         double result = ((x * y) / 2) + rest;
 
         long int finalResult = ceil(result);
-        std::cout << finalResult << "\n";
+        std::cout<< finalResult << "\n";
 
         std::cin >> n >> m >> white;
     }
