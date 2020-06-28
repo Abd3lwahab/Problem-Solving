@@ -46,3 +46,4 @@
 | CF9-D2-A | [Die Roll](http://codeforces.com/contest/9/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/die_roll.cpp) |
 | CF799-D2-A | [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/carrot_cakes.py) |
 | UVA-10110 | [Light, more light](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1051) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/light_more_light.cpp) |
+| UVA-10106 | [Product](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&category=0&problem=1047) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/product.cpp) |
