@@ -6,7 +6,7 @@
 | CF677-D2-A | [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/vanya_and_fence.cpp) |
 | CF734-D2-A | [Anton and Danik](http://codeforces.com/contest/734/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_danik.py) |
 | CF791-D2-A | [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/bear_and_big_brother.py) |
-| CF791-D2-A | [Beautiful Matrix](http://codeforces.com/contest/791/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/bear_and_big_brother.py) |
+| CF263-D2-A | [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/bear_and_big_brother.py) |
 | CF405-D2-A | [Gravity Flip](http://codeforces.com/contest/405/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/gravity_flip.cpp) |
 | CF112-D2-A | [Petya and Strings](http://codeforces.com/contest/112/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/petya_and_strings.cpp) |
 | CF236-D2-A | [Boy or Girl](http://codeforces.com/contest/236/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/boy_or_girl.py) |
@@ -43,6 +43,7 @@
 | CF339-D2-A | [Helpful Maths](http://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/helpful_maths.py) |
 | CF490-D2-A | [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/team_olympaid.cpp) |
 | CF567-D2-A | [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/lineland_mail.cpp) |
+| CF160-D2-A | [Twins](http://codeforces.com/contest/160/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/twins.cpp) |
 
 ## Math
 | Code | Problem | Solution |
