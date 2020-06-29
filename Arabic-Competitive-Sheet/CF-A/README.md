@@ -40,6 +40,7 @@
 | CF381-D2-A | [Sereja and Dima](http://codeforces.com/contest/381/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/sereja_and_dima.cpp) |
 | CF339-D2-A | [Helpful Maths](http://codeforces.com/contest/339/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/helpful_maths.py) |
 | CF490-D2-A | [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/team_olympaid.cpp) |
+| CF567-D2-A | [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/lineland_mail.cpp) |
 
 ## Math
 | Code | Problem | Solution |
