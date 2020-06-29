@@ -27,6 +27,7 @@
 | CF136-D2-A | [Presents](http://codeforces.com/contest/136/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/presents.cpp)|
 | CF767-D2-A | [Snacktower](http://codeforces.com/contest/767/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/snacktower.cpp)|
 | CF520-D2-A| [Pangram](http://codeforces.com/contest/520/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/pangram.cpp)|
+| CF474-D2-A| [Keyboard](http://codeforces.com/contest/474/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/keyboard.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
