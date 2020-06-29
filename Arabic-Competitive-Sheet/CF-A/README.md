@@ -25,6 +25,7 @@
 | CF686-D2-A | [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/free_ice_cream.cpp)|
 | CF770-D2-A | [New Password](http://codeforces.com/contest/770/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/new_password.cpp)|
 | CF136-D2-A | [Presents](http://codeforces.com/contest/136/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/presents.cpp)|
+| CF767-D2-A | [Snacktower](http://codeforces.com/contest/767/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/snacktower.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
