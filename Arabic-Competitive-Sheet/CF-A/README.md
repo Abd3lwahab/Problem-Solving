@@ -21,11 +21,12 @@
 | CF294-D2-A | [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/shaass_and_oskols.cpp)|
 | CF709-D2-A | [Juicer](http://codeforces.com/contest/709/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/juicer.cpp)|
 | CF443-D2-A | [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_letters.py)|
-| CF443-D2-A | [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/way_to_long_words.py)|
+| CF71-D2-A | [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/way_to_long_words.py)|
 | CF686-D2-A | [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/free_ice_cream.cpp)|
 | CF770-D2-A | [New Password](http://codeforces.com/contest/770/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/new_password.cpp)|
 | CF136-D2-A | [Presents](http://codeforces.com/contest/136/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/presents.cpp)|
 | CF767-D2-A | [Snacktower](http://codeforces.com/contest/767/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/snacktower.cpp)|
+| CF520-D2-A| [Pangram](http://codeforces.com/contest/520/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/pangram.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
