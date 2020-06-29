@@ -33,7 +33,7 @@
 | CF231-D2-A | [Team](http://codeforces.com/contest/231/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/team.cpp) |
 | CF268-D2-A | [Games](http://codeforces.com/contest/268/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/games.cpp) |
 | CF732-D2-A | [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/buy_a_shovel.py) |
-
+| CF768-D2-A | [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/oath_of_the_night_watch.cpp) |
 
 ## Greedy
 | Code | Problem | Solution |
