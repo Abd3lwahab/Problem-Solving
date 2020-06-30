@@ -62,3 +62,4 @@
 | Code | Problem | Solution |
 | :------------: | :------------: | :------------: |
 | UVA-352 | [The Seasonal War](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=288) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/the_seasonal_war.cpp) |
+| UVA-10452 | [Marcus](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1393) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/marcus.cpp) |
