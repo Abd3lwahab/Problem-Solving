@@ -65,3 +65,4 @@
 | UVA-10452 | [Marcus](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1393) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/marcus.cpp) |
 | UVA-11953 | [Battleships](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3104) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/battleships.cpp) |
 | CF216-D2-B | [Forming Teams](https://codeforces.com/contest/216/problem/B) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/forming_teams.cpp) |
+| SPOJ-MAKETREE | [MAKETREE - Hierarchy](https://www.spoj.com/problems/MAKETREE) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/maketree_hierarchy.cpp) |
