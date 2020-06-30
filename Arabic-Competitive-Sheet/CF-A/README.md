@@ -57,3 +57,8 @@
 | UVA-11231 | [Black and white painting](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2172) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/black_and_white_painting.cpp) |
 | UVA-12148 | [Electricity](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3300) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/electricity.cpp) |
 | SPOJ-EASYMATH | [EASY MATH](https://www.spoj.com/problems/EASYMATH/) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/easy_math.cpp) |
+
+## Graph
+| Code | Problem | Solution |
+| :------------: | :------------: | :------------: |
+| UVA-352 | [The Seasonal War](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=288) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/the_seasonal_war.cpp) |
