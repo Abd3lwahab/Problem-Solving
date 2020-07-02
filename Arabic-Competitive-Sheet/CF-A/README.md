@@ -26,8 +26,9 @@
 | CF770-D2-A | [New Password](http://codeforces.com/contest/770/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/new_password.cpp)|
 | CF136-D2-A | [Presents](http://codeforces.com/contest/136/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/presents.cpp)|
 | CF767-D2-A | [Snacktower](http://codeforces.com/contest/767/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/snacktower.cpp)|
-| CF520-D2-A| [Pangram](http://codeforces.com/contest/520/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/pangram.cpp)|
-| CF474-D2-A| [Keyboard](http://codeforces.com/contest/474/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/keyboard.cpp)|
+| CF520-D2-A | [Pangram](http://codeforces.com/contest/520/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/pangram.cpp)|
+| CF474-D2-A | [Keyboard](http://codeforces.com/contest/474/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/keyboard.cpp)|
+| CF469-D2-A | [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/i_wanna_be_the_guy.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
