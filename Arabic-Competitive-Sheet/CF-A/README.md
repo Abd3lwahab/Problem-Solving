@@ -67,6 +67,7 @@
 | CF584-D2-A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/olesya_and_rodion.py) |
 | CF742-D2-A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/arpa’s_hard_exam_and_mehrdad’s_naive_cheat.py) |
 | CF486-D2-A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/calculating_function.py) |
+| CF1-D2-A | [Calculating Function](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/theatre_square.py) |
 
 ## Graph
 | Code | Problem | Solution |
