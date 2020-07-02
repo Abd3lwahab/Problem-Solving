@@ -60,6 +60,7 @@
 | UVA-12148 | [Electricity](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3300) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/electricity.cpp) |
 | SPOJ-EASYMATH | [EASY MATH](https://www.spoj.com/problems/EASYMATH/) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/easy_math.cpp) |
 | CF318-D2-A | [Even Odds](https://codeforces.com/contest/318/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/even_odds.cpp) |
+| CF584-D2-A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/olesya_and_rodion.py) |
 
 ## Graph
 | Code | Problem | Solution |
