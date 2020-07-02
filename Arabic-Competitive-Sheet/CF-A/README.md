@@ -33,6 +33,7 @@
 | CF43-D2-A | [Football](http://codeforces.com/contest/43/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/football.py)|
 | CF707-D2-A | [Brain's Photos](http://codeforces.com/contest/707/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/brain_photos.py)|
 | CF208-D2-A | [Dubstep](http://codeforces.com/contest/208/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/dubstep.py)|
+| CF404-D2-A | [Valera and X](http://codeforces.com/contest/404/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/valera_and_x.py)|
 
 ## BruteForce
 | Code | Problem | Solution |
