@@ -34,7 +34,7 @@
 | CF707-D2-A | [Brain's Photos](http://codeforces.com/contest/707/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/brain_photos.py)|
 | CF208-D2-A | [Dubstep](http://codeforces.com/contest/208/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/dubstep.py)|
 | CF404-D2-A | [Valera and X](http://codeforces.com/contest/404/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/valera_and_x.py)|
-| CF404-D2-A | [Anton and Polyhedrons](http://codeforces.com/contest/404/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_polyhedrons.py)|
+| CF785-D2-A | [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_polyhedrons.py)|
 
 ## BruteForce
 | Code | Problem | Solution |
@@ -43,6 +43,7 @@
 | CF268-D2-A | [Games](http://codeforces.com/contest/268/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/games.cpp) |
 | CF732-D2-A | [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/buy_a_shovel.py) |
 | CF768-D2-A | [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/oath_of_the_night_watch.cpp) |
+| CF80-D2-A | [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/panoramixs_prediction.py) |
 
 ## Greedy
 | Code | Problem | Solution |
