@@ -89,3 +89,4 @@
 | UVA-476 | [Points in Figures: Rectangles](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=417) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/points_in_figures.cpp) |
 | UVA-460 | [Overlapping Rectangles](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/overlapping_rectangles.cpp) |
 | CF270-D2-A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/fancy_fence.cpp) |
+| CF667-D2-A | [Pouring Rain](https://codeforces.com/contest/667/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/pouring_rain.cpp) |
