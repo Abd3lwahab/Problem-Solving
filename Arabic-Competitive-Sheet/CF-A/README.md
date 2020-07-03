@@ -90,3 +90,4 @@
 | UVA-460 | [Overlapping Rectangles](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/overlapping_rectangles.cpp) |
 | CF270-D2-A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/fancy_fence.cpp) |
 | CF667-D2-A | [Pouring Rain](https://codeforces.com/contest/667/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/pouring_rain.cpp) |
+| UVA-10242 | [Fourth Point !!](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1183) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/fourth_point.cpp) |
