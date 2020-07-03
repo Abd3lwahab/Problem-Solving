@@ -87,3 +87,4 @@
 | :------------: | :------------: | :------------: |
 | CF127-D2-A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/wasted_time.cpp) |
 | UVA-476 | [Points in Figures: Rectangles](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=417) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/points_in_figures.cpp) |
+| UVA-460 | [Overlapping Rectangles](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=401) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/overlapping_rectangles.cpp) |
