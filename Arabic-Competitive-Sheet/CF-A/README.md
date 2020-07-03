@@ -81,3 +81,8 @@
 | CF216-D2-B | [Forming Teams](https://codeforces.com/contest/216/problem/B) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/forming_teams.cpp) |
 | SPOJ-MAKETREE | [MAKETREE - Hierarchy](https://www.spoj.com/problems/MAKETREE) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/maketree_hierarchy.cpp) |
 | UVA-10305 | [Ordering Tasks](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1246) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Graph/ordering_tasks.cpp) |
+
+## Geometry
+| Code | Problem | Solution |
+| :------------: | :------------: | :------------: |
+| CF127-D2-A | [Wasted Time](https://codeforces.com/contest/127/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Geometry/wasted_time.cpp) |
