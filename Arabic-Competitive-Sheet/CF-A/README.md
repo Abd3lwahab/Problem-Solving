@@ -35,6 +35,7 @@
 | CF208-D2-A | [Dubstep](http://codeforces.com/contest/208/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/dubstep.py)|
 | CF404-D2-A | [Valera and X](http://codeforces.com/contest/404/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/valera_and_x.py)|
 | CF785-D2-A | [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/anton_and_polyhedrons.py)|
+| CF365-D2-A | [Good Number](http://codeforces.com/contest/365/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Implementation/good_number.cpp)|
 
 ## BruteForce
 | Code | Problem | Solution |
