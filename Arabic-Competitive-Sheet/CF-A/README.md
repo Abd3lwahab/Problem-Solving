@@ -45,6 +45,7 @@
 | CF732-D2-A | [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/buy_a_shovel.py) |
 | CF768-D2-A | [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/oath_of_the_night_watch.cpp) |
 | CF80-D2-A | [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/panoramixs_prediction.py) |
+| CF218-D2-A | [Mountain Scenery](http://codeforces.com/contest/218/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/BruteForce/mountain_scenery.py) |
 
 ## Greedy
 | Code | Problem | Solution |
@@ -71,7 +72,7 @@
 | CF584-D2-A | [Olesya and Rodion](https://codeforces.com/contest/584/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/olesya_and_rodion.py) |
 | CF742-D2-A | [Arpa’s hard exam and Mehrdad’s naive cheat](https://codeforces.com/contest/742/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/arpa’s_hard_exam_and_mehrdad’s_naive_cheat.py) |
 | CF486-D2-A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/calculating_function.py) |
-| CF1-D2-A | [Calculating Function](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/theatre_square.py) |
+| CF1-D2-A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/theatre_square.py) |
 | CF483-D2-A | [Counterexample](https://codeforces.com/contest/483/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/counterexample.py) |
 | CF682-D2-A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/alyona_and_numbers.py) |
 
