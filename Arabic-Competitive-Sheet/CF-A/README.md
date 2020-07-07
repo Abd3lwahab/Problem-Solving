@@ -75,6 +75,7 @@
 | CF1-D2-A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/theatre_square.py) |
 | CF483-D2-A | [Counterexample](https://codeforces.com/contest/483/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/counterexample.py) |
 | CF682-D2-A | [Alyona and Numbers](https://codeforces.com/contest/682/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/alyona_and_numbers.py) |
+| CF143-D2-A | [Help Vasilisa the Wise 2](https://codeforces.com/contest/143/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Math/help_vasilisa_the_wise_2.cpp) |
 
 ## Graph
 | Code | Problem | Solution |
