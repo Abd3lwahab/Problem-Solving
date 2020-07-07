@@ -54,6 +54,7 @@
 | CF490-D2-A | [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/team_olympaid.cpp) |
 | CF567-D2-A | [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/lineland_mail.cpp) |
 | CF160-D2-A | [Twins](http://codeforces.com/contest/160/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/twins.cpp) |
+| CF225-D2-A | [Dice Tower](http://codeforces.com/contest/225/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/dice_tower.cpp) |
 
 ## Math
 | Code | Problem | Solution |
