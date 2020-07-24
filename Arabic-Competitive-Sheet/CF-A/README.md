@@ -56,6 +56,7 @@
 | CF567-D2-A | [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/lineland_mail.cpp) |
 | CF160-D2-A | [Twins](http://codeforces.com/contest/160/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/twins.cpp) |
 | CF225-D2-A | [Dice Tower](http://codeforces.com/contest/225/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/dice_tower.cpp) |
+| CF514-D2-A | [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | [Solution](https://github.com/Abdelwahab07/Problem-Solving/blob/master/Arabic-Competitive-Sheet/CF-A/Greedy/chewbaсca_and_number.py) |
 
 ## Math
 | Code | Problem | Solution |
